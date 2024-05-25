@@ -1,5 +1,5 @@
 //cuales son los numeros pares
-//si la ondicion se cumple, lo que esta dentro del parentesis, ejecuta el bloque de codigo que esta dentro de los corchetes
+//si la condicion se cumple, lo que esta dentro del parentesis, ejecuta el bloque de codigo que esta dentro de los corchetes
 
 let i = 0;
 while (i < 10) {
